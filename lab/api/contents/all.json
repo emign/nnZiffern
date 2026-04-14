@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-04-14T00:00:00.000000Z",
+      "format": "json",
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-04-14T00:00:00.000000Z",
+      "mimetype": null,
+      "name": "NeuronalesNetzMNIST.ipynb",
+      "path": "NeuronalesNetzMNIST.ipynb",
+      "size": null,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-04-14T00:00:00.000000Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-04-14T00:00:00.000000Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
